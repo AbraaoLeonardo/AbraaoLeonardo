@@ -1,10 +1,10 @@
-### DevOps Engineer | Cloud Architect
+### DevOps Engineer
 
-👋 Bem-vindo ao meu perfil do GitHub! Sou um engenheiro de DevOps apaixonado por automação, infraestrutura em nuvem e integração contínua/distribuição contínua (CI/CD).
+👋 Bem-vindo ao meu perfil do GitHub! Sou um engenheiro de DevOps apaixonado por automação, infraestrutura em nuvem e integração contínua/distribuição contínua (CI/CD). Sou certificado em solutions architect associate na AWS, e já estou estudando para a SysOps Administrator - Associate. Estou me especializando em Kubernetes com o programa intensivo de containers e kubernetes na linuxtips. Tenho conhecimento e experiência com o linux utilizando de forma domestica há mais de 4 anos, e me impressino que sempre tem algo a mais que acabo aprendendo ou automatizando com shell script devido a uma necessidade que nem sabia que tinha.
 
 #### O que estou trabalhando atualmente:
 ###### Guia AWS:
-Onde meu foco é criar um repositório com conteúdos para preparação para as certificações AWS SAA, SOA e Devops. Com isso, além de criar um conteúdo para revisão pré prova, pratico conceitos de engenharia de prompts.
+Onde meu foco é criar um repositório com conteúdos para preparação para as certificações AWS SAA, SOA e Devops. Com isso, além de criar um conteúdo para revisão pré prova, pratico conceitos de engenharia de prompts com o ChatGPT.
 
 #### Tecnologias que domino:
 ##### Clouds
@@ -19,4 +19,4 @@ Onde meu foco é criar um repositório com conteúdos para preparação para as 
 #### O que estou aprendendo agora:
 - Kubernetes: o [Pick: programa intensívo de container e kubernetes](https://www.linuxtips.io/pick)
 - Terraform: Pela [ExamPro](https://www.youtube.com/playlist?list=PLBfufR7vyJJ6OmMNbvfkBx1HcL-XI8ymg) e [Terraform Up and running](https://www.amazon.com.br/Terraform-Up-Running-Yevgeniy-Brikman/dp/1492046906)
-- AWS para Solutions Architect Associated: [Free Code Camp](https://www.youtube.com/watch?v=c3Cn4xYfxJY)
+- AWS para Solutions SysOps Administrator: [Free Code Camp](https://www.youtube.com/watch?v=c3Cn4xYfxJY) e [udemy](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/)
