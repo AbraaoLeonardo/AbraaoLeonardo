@@ -1,5 +1,3 @@
-### DevOps Engineer
-
 👋 Bem-vindo ao meu perfil do GitHub! Sou um estudante de engenharia de computação apaixonado pela a área de automação e infraestrutura. Trabalho no time de suporte na microleme sistemas onde estou me desenvolvendo nas no quesito de comunicação, banco de dados e resolução de problemas. 
 
 #### O que estou trabalhando atualmente:
@@ -17,5 +15,5 @@ Equipe formada por alunos de engenharia da computação liderados pelo professor
 
 #### O que estou aprendendo agora:
 - Kubernetes: [Pick: programa intensívo de container e kubernetes](https://www.linuxtips.io/pick), curso focado em kubernetes e tecnologias que trabalham em conjuntos como o trivy, prometheus, grafana, alertmanager, aws EKS..., etc.
-- TheoMeWhy: [Lago do Mago]() Curso de aproximadamente 30 horas sobre a criação de datalake utilizando o databricks e AWS DMS.
+- TheoMeWhy: [Lago do Mago](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTcLehYZ2Bd5hGIcLH0dJHE) Curso de aproximadamente 30 horas sobre a criação de datalake utilizando o databricks e AWS DMS.
 
