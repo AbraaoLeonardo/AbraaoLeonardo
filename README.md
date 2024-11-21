@@ -4,6 +4,12 @@
 ###### FhoData:
 Equipe formada por alunos de engenharia da computação liderados pelo professor [Mauricio Acconcia Dias](http://lattes.cnpq.br/5601429036874207). O objetivo desse projeto é auxiliar os alunos na área de ciência/engenharia de dados através de reuniões, desafios, descusões e projetos a respeito da área de dados. Os dados utilizados são dados reais da faculdade, tanto do corpo docente quanto das atividades atividades extracurriculares, onde o resultado é utilizado pelos donos dos dados para tomada de decisão.
 
+###### Grupo de Estudo de Algoritimos:
+Equipe formada por alunos de engenharia da computação liderados pelo professor [Renato Luciano Cagnin](http://lattes.cnpq.br/3864977515064821). O grupo tem como finalidade de estudar algoritimos e solucionar desafios de códigos da plataforma Beecrowd, antiga URI. Meu objetivo com o projeto é melhorar minha logica de programação e soluções de problemas. [repositorio com os desafios](https://github.com/AbraaoLeonardo/beecrowd)
+
+###### 30 ETL
+Repositório com 30 projetos simples de ETL. O objetivo desse repositório é o estudo e aprendizado de engenharia de dados projetos simples de ETL que cobrem ferramentas como apache airflow, pyspark, banco de dados relacionais, não relacionais, docker, kubernetes, github actions e python. [Repositorio com os desafios](https://github.com/AbraaoLeonardo/30-etl)
+
 #### Tecnologias que domino:
 ##### Clouds
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
