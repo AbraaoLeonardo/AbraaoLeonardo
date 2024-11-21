@@ -1,4 +1,4 @@
-👋 Bem-vindo ao meu perfil do GitHub! Sou um estudante de engenharia de computação apaixonado pela a área de automação e infraestrutura. Trabalho no time de suporte na microleme sistemas onde estou me desenvolvendo nas no quesito de comunicação, banco de dados e resolução de problemas. 
+👋 Bem-vindo ao meu perfil do GitHub! Sou um estudante de engenharia de computação apaixonado pela a área de automação e infraestrutura. Estou me especializando na área de engenharia de dados e DataOps através de projetos simples de ETL e pipeline de dados. Trabalho no time de suporte na microleme sistemas onde estou me desenvolvendo nas soft skills de comunicação, banco de dados, windows e resolução de problemas. 
 
 #### O que estou trabalhando atualmente:
 ###### FhoData:
@@ -17,9 +17,3 @@ Repositório com 30 projetos simples de ETL. O objetivo desse repositório é o 
 ![linux](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 #### Outras técnologias
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-
-
-#### O que estou aprendendo agora:
-- Kubernetes: [Pick: programa intensívo de container e kubernetes](https://www.linuxtips.io/pick), curso focado em kubernetes e tecnologias que trabalham em conjuntos como o trivy, prometheus, grafana, alertmanager, aws EKS..., etc.
-- TheoMeWhy: [Lago do Mago](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTcLehYZ2Bd5hGIcLH0dJHE) Curso de aproximadamente 30 horas sobre a criação de datalake utilizando o databricks e AWS DMS.
-
