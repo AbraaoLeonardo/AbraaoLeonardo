@@ -7,8 +7,8 @@ Equipe formada por alunos de engenharia da computação liderados pelo professor
 ###### Grupo de Estudo de Algoritimos:
 Equipe formada por alunos de engenharia da computação liderados pelo professor [Renato Luciano Cagnin](http://lattes.cnpq.br/3864977515064821). O grupo tem como finalidade de estudar algoritimos e solucionar desafios de códigos da plataforma Beecrowd, antiga URI. Meu objetivo com o projeto é melhorar minha logica de programação e soluções de problemas. [repositorio com os desafios](https://github.com/AbraaoLeonardo/beecrowd)
 
-###### 30 ETL
-Repositório com 30 projetos simples de ETL. O objetivo desse repositório é o estudo e aprendizado de engenharia de dados projetos simples de ETL que cobrem ferramentas como apache airflow, pyspark, banco de dados relacionais, não relacionais, docker, kubernetes, github actions e python. [Repositorio com os desafios](https://github.com/AbraaoLeonardo/30-etl)
+###### pipeline de extração de promoções do varejo.
+Utilizando docker, airflow, python e aws, os dados são coletados através de webscraping carregados em um csv e por fim enviado para para um bucket s3 com uma tabela de raw. Com o athenas e glue, realizar uma segunda extração para um novo bucket bronze, prata e por fim ouro. [repositorio com o código](https://github.com/AbraaoLeonardo/pipeline_promocao)
 
 #### Tecnologias que domino:
 ##### Clouds
